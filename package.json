@@ -1,0 +1,28 @@
+{
+  "name": "coderhouse-08-express-avanzado-parte1",
+  "version": "1.0.0",
+  "description": "Entregable clase 8, Express avanzado parte 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmzulian/CoderHouse-08-Express-avanzado-parte1.git"
+  },
+  "keywords": [
+    "express",
+    "clase",
+    "08",
+    "entregable"
+  ],
+  "author": "Pablo ZULIÁN / pmzulian@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmzulian/CoderHouse-08-Express-avanzado-parte1/issues"
+  },
+  "homepage": "https://github.com/pmzulian/CoderHouse-08-Express-avanzado-parte1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
